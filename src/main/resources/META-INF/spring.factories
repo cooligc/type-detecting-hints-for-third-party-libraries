@@ -1,0 +1,2 @@
+org.springframework.aot.context.bootstrap.generator.infrastructure.nativex.BeanFactoryNativeConfigurationProcessor =\
+  com.example.library.hints.ShapeHints
